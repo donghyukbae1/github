@@ -481,3 +481,34 @@ LogInit: Object subsystem initialized
 [2017.04.28-18.16.30:914][336]SourceControl: Info 	Saved/
 [2017.04.28-18.16.30:914][336]SourceControl: Info 	github.uproject
 [2017.04.28-18.16.30:914][336]SourceControl: Info nothing added to commit but untracked files present (use "git add" to track)
+[2017.04.28-18.35.07:073][270]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.04.28-18.35.07:984][357]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.04.28-18.35.08:671][437]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.04.28-18.35.18:298][576]Cmd: TRANSACTION UNDO
+[2017.04.28-18.35.18:298][576]LogEditorTransaction: Undo Move Actors
+[2017.04.28-18.35.18:317][576]LogSlate: Took 0.000265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.04.28-18.36.02:036][759]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.04.28-18.36.02:156][759]LogSavePackage: Save=68.01ms
+[2017.04.28-18.36.02:156][759]LogSavePackage: Moving '../../../../../../Users/003866797/Documents/Unreal Projects/github/Saved/Minimal_Default_Auto1D822D2F44E8813750CAEE48D8C96F635.tmp' to '../../../../../../Users/003866797/Documents/Unreal Projects/github/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2017.04.28-18.36.02:157][759]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/003866797/Documents/Unreal Projects/github/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap
+[2017.04.28-18.36.02:159][759]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.090
+[2017.04.28-18.36.02:159][759]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.090
+[2017.04.28-18.36.58:427][844]LogSlate: Took 0.002319 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.04.28-18.37.54:586][312]SourceControl: Info On branch master
+[2017.04.28-18.37.54:586][312]SourceControl: Info Your branch is up-to-date with 'origin/master'.
+[2017.04.28-18.37.54:586][312]SourceControl: Info Changes not staged for commit:
+[2017.04.28-18.37.54:586][312]SourceControl: Info   (use "git add <file>..." to update what will be committed)
+[2017.04.28-18.37.54:586][312]SourceControl: Info   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.04.28-18.37.54:586][312]SourceControl: Info 	modified:   Saved/Autosaves/PackageRestoreData.json
+[2017.04.28-18.37.54:586][312]SourceControl: Info 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2017.04.28-18.37.54:586][312]SourceControl: Info 	modified:   Saved/Config/Windows/SourceControlSettings.ini
+[2017.04.28-18.37.54:586][312]SourceControl: Info Untracked files:
+[2017.04.28-18.37.54:586][312]SourceControl: Info   (use "git add <file>..." to include in what will be committed)
+[2017.04.28-18.37.54:586][312]SourceControl: Info 	Saved/Autosaves/Game/
+[2017.04.28-18.37.54:586][312]SourceControl: Info 	Saved/Backup/Minimal_Default_2017-04-28-11-36-02.umap
+[2017.04.28-18.37.54:586][312]SourceControl: Info 	Saved/Config/WorldState/
+[2017.04.28-18.37.54:586][312]SourceControl: Info no changes added to commit (use "git add" and/or "git commit -a")
+[2017.04.28-18.37.54:898][312]LogSavePackage: Save=6.22ms
+[2017.04.28-18.37.54:898][312]LogSavePackage: Moving '../../../../../../Users/003866797/Documents/Unreal Projects/github/Saved/Level_1_github_test6BDAEC6F4F5A06EF09E2AF9F4F6F1E6B.tmp' to '../../../../../../Users/003866797/Documents/Unreal Projects/github/Content/Level_1_github_test.umap'
+[2017.04.28-18.37.54:901][312]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/003866797/Documents/Unreal Projects/github/Content/Level_1_github_test.umap
+[2017.04.28-18.37.55:399][312]LogFileHelpers: Saving map 'Level_1_github_test' took 0.636
